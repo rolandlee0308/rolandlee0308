@@ -38,6 +38,10 @@ Here are some ideas to get you started:
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandlee0308&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rolandlee0308&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandlee0308&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolandlee0308&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
