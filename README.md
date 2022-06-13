@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 ---
 
 ### &#x1f4c8; My GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=rolandlee0308&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rolandlee0308&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandlee0308&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
